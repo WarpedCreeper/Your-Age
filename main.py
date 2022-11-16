@@ -5,4 +5,4 @@ age = int (input ("age: "))
 days = age * 365
 minutes = age * 525948     
 seconds = age * 31556926
-print(name, "прожил(а)", days, "дней", minutes, "минут и", seconds, "секунд!")
+print(name, "has been alive for" days, "days", minutes,"minutes and" seconds, "seconds! Now!")
