@@ -1,4 +1,4 @@
-print ("Let'g see how long you have lived in days, minutes and seconds.")
+print ("Let's see how long you have lived in days, minutes and seconds.")
 name = input ("name: ")
 print ("now enter your age")
 age = int (input ("age: "))
